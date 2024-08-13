@@ -1,0 +1,50 @@
+﻿  c++.cpp
+C:\Users\jomig\OneDrive\Ambiente de Trabalho\opengl\lighting\include\shader_m.h(56,40): warning C4101: 'e': variável local não referenciada
+C:\Users\jomig\source\repos\Map\c++.cpp(233,70): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\jomig\source\repos\Map\c++.cpp(234,78): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\jomig\source\repos\Map\c++.cpp(337,24): warning C4244: 'argumento': conversão de 'float' para 'short', possível perda de dados
+C:\Users\jomig\source\repos\Map\c++.cpp(351,15): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\jomig\source\repos\Map\c++.cpp(354,20): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\jomig\source\repos\Map\c++.cpp(371,39): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\jomig\source\repos\Map\c++.cpp(409,36): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+C:\Users\jomig\source\repos\Map\c++.cpp(576,19): warning C4244: '+=': conversão de 'double' para 'float', possível perda de dados
+freetype.lib(ftinit.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype.lib(ftinit.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype.lib(ftbase.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype.lib(ftbase.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype.lib(autofit.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype.lib(autofit.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype.lib(truetype.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype.lib(truetype.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype.lib(type1.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype.lib(type1.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype.lib(cff.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype.lib(cff.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype.lib(type1cid.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype.lib(type1cid.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype.lib(pfr.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype.lib(pfr.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype.lib(type42.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype.lib(type42.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype.lib(winfnt.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype.lib(winfnt.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype.lib(pcf.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype.lib(pcf.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype.lib(psaux.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype.lib(psaux.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype.lib(psmodule.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype.lib(psmodule.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype.lib(pshinter.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype.lib(pshinter.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype.lib(raster.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype.lib(raster.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype.lib(sfnt.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype.lib(sfnt.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype.lib(smooth.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype.lib(smooth.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype.lib(bdf.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype.lib(bdf.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype.lib(ftsystem.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype.lib(ftsystem.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype.lib(ftgzip.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype.lib(ftgzip.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype.lib(ftlzw.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype.lib(ftlzw.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype.lib(ftbitmap.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype.lib(ftbitmap.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+freetype.lib(ftdebug.obj) : warning LNK4099: PDB '' não foi encontrado 'freetype.lib(ftdebug.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+glfw3.lib(init.obj) : warning LNK4099: PDB '' não foi encontrado 'glfw3.lib(init.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+glfw3.lib(window.obj) : warning LNK4099: PDB '' não foi encontrado 'glfw3.lib(window.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+glfw3.lib(input.obj) : warning LNK4099: PDB '' não foi encontrado 'glfw3.lib(input.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+glfw3.lib(context.obj) : warning LNK4099: PDB '' não foi encontrado 'glfw3.lib(context.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB '' não foi encontrado 'glfw3.lib(win32_init.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB '' não foi encontrado 'glfw3.lib(win32_monitor.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB '' não foi encontrado 'glfw3.lib(win32_time.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+glfw3.lib(win32_thread.obj) : warning LNK4099: PDB '' não foi encontrado 'glfw3.lib(win32_thread.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+glfw3.lib(monitor.obj) : warning LNK4099: PDB '' não foi encontrado 'glfw3.lib(monitor.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB '' não foi encontrado 'glfw3.lib(vulkan.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB '' não foi encontrado 'glfw3.lib(win32_window.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB '' não foi encontrado 'glfw3.lib(win32_joystick.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB '' não foi encontrado 'glfw3.lib(wgl_context.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB '' não foi encontrado 'glfw3.lib(egl_context.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB '' não foi encontrado 'glfw3.lib(osmesa_context.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+     Criando biblioteca C:\Users\jomig\source\repos\Map\x64\Debug\Map.lib e objeto C:\Users\jomig\source\repos\Map\x64\Debug\Map.exp
+  Map.vcxproj -> C:\Users\jomig\source\repos\Map\x64\Debug\Map.exe
